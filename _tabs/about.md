@@ -4,20 +4,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
+# Gyutae Kim
 
-Hi, I'm **Gyutae Kim**, a junior software engineering student with a strong passion for **App Development**. I love exploring new technologies and building impactful applications that solve real-world problems.
+Hi! I'm a junior majoring in **Software Engineering at Gyeongsang National University (GNU)** in Jinju, South Korea. I have a strong passion for **App Development** and love building software that solves real-world problems. 
 
-## 🎓 Background
-- **Education:** Currently in my 3rd year studying **GNU Software Engineering** at Gyeongsang National University (Jinju, Gyeongsangnam-do).
-- **Birth Year:** 2003
-- **Military Service:** Completed
-- **Leadership:** President of the **Silicon Valley Club Program**
+Born in 2003 and having successfully completed my military service, I am now fully focused on accelerating my career as a developer. Currently, I proudly serve as the **President of the Silicon Valley Club**, where I lead initiatives to broaden our global tech perspectives, explore startup ecosystems, and foster a collaborative engineering culture among peers.
 
-## 🌟 Connect with Me
-- **GitHub:** [gyutaetae](https://github.com/gyutaetae)
-- **LinkedIn:** [Gyutae Kim](https://www.linkedin.com/in/kim-gyutae-4823853a4/)
-- **Velog:** [@gyutaetae](https://velog.io/@gyutaetae)
+## 🌐 Connect with Me
+
+- 💻 [GitHub (gyutaetae)](https://github.com/gyutaetae)
+- 💼 [LinkedIn (Gyutae Kim)](https://www.linkedin.com/in/kim-gyutae-4823853a4/)
+- 📝 [Velog (@gyutaetae)](https://velog.io/@gyutaetae)
 
 ---
-*Feel free to reach out if you want to talk about technology, app development, or any exciting opportunities!*
+
+> *I am always open to discussing new opportunities, tech trends, or interesting app development projects!*
