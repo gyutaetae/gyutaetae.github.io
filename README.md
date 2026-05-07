@@ -1,39 +1,21 @@
-# Chirpy Starter
+# Gyutae Kim's Portfolio & Blog
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to the personal GitHub repository and blog of Gyutae Kim! This site is powered by Jekyll (Chirpy theme) and serves as a central hub for my projects, experiences, and thoughts as a developer.
 
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
+## 📝 Today I Learned (TIL)
 
-## Why This Starter Exists
+I regularly document my daily learnings, troubleshooting processes, and development logs on my Velog:
+👉 **[Velog (@gyutaetae) - TIL & Tech Blog](https://velog.io/@gyutaetae)**
 
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
+## 🚀 Project Documentation Standard
 
-To unlock all features, the following files must be present in your Jekyll site:
+To effectively showcase my problem-solving skills and contributions, all future projects added to my portfolio will be documented following this structure:
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+- **프로젝트 한 줄 소개 & 스크린샷(또는 GIF 동작 화면)**
+- **사용 기술 스택**: (예: Flutter, Spring Boot, MySQL 등)
+- **💡 문제 및 해결 (Problem & Solution)**: "이러이러한 버그나 성능 이슈가 있었는데, 내가 어떤 고민을 해서 이렇게 해결했다"
+- **내 기여도 (My Role)**: 팀 프로젝트라면 내가 정확히 어떤 부분을 짰는지 명시.
 
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
+---
 
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+*Feel free to explore my source code or visit my live blog at [gyutaetae.github.io](https://gyutaetae.github.io)!*
