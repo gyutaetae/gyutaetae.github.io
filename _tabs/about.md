@@ -6,37 +6,18 @@ order: 4
 
 # About Me
 
-Hi, I'm **Gyutae Kim**, a passionate software developer constantly exploring new technologies. I am currently participating in a **Silicon Valley Club Program**, where I am expanding my global perspective, honing my technical skills, and building my professional network.
+Hi, I'm **Gyutae Kim**, a junior software engineering student with a strong passion for **App Development**. I love exploring new technologies and building impactful applications that solve real-world problems.
 
-## 🚀 Experience & Activities
+## 🎓 Background
+- **Education:** Currently in my 3rd year studying **GNU Software Engineering** at Gyeongsang National University (Jinju, Gyeongsangnam-do).
+- **Birth Year:** 2003
+- **Military Service:** Completed
+- **Leadership:** President of the **Silicon Valley Club Program**
 
-### Silicon Valley Club Program Participant
-*Present*
-- Engaging with global tech trends and engineering practices.
-- Collaborating with peers on innovative projects.
-- Learning about startup ecosystems, agile methodologies, and scalable software architecture.
-
-## 🛠️ Skills & Technologies
-
-- **Languages:** (e.g., Python, JavaScript, Java, C++)
-- **Frameworks/Libraries:** (e.g., React, Node.js, Spring Boot)
-- **Tools & Platforms:** Git, GitHub, Docker, AWS, Velog
-
-## 💻 Projects
-
-*(Add your awesome projects here!)*
-
-### [Project Name]
-- **Description:** A brief overview of what the project does and its core value.
-- **Tech Stack:** Tech 1, Tech 2, Tech 3
-- **My Role:** What specific features you implemented or problems you solved.
-- **Links:** [GitHub Repository](#) | [Live Demo](#)
-
-## 🌐 Connect with Me
-
-- [GitHub (gyutaetae)](https://github.com/gyutaetae)
-- [LinkedIn (Gyutae Kim)](https://www.linkedin.com/in/kim-gyutae-4823853a4/)
-- [Velog (@gyutaetae)](https://velog.io/@gyutaetae)
+## 🌟 Connect with Me
+- **GitHub:** [gyutaetae](https://github.com/gyutaetae)
+- **LinkedIn:** [Gyutae Kim](https://www.linkedin.com/in/kim-gyutae-4823853a4/)
+- **Velog:** [@gyutaetae](https://velog.io/@gyutaetae)
 
 ---
-*Feel free to reach out if you want to talk about technology, projects, or any exciting opportunities!*
+*Feel free to reach out if you want to talk about technology, app development, or any exciting opportunities!*
