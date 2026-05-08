@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 # About Me
@@ -21,16 +21,6 @@ Hi, I'm **Gyutae Kim**, a passionate software developer constantly exploring new
 - **Languages:** (e.g., Python, JavaScript, Java, C++)
 - **Frameworks/Libraries:** (e.g., React, Node.js, Spring Boot)
 - **Tools & Platforms:** Git, GitHub, Docker, AWS, Velog
-
-## 💻 Projects
-
-*(Add your awesome projects here!)*
-
-### [Project Name]
-- **Description:** A brief overview of what the project does and its core value.
-- **Tech Stack:** Tech 1, Tech 2, Tech 3
-- **My Role:** What specific features you implemented or problems you solved.
-- **Links:** [GitHub Repository](#) | [Live Demo](#)
 
 ## 🌐 Connect with Me
 
