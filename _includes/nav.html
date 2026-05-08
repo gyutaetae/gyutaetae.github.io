@@ -1,0 +1,8 @@
+<nav>
+  <a class="nav-logo" href="{{ '/' | relative_url }}">gyutae.dev</a>
+  <ul class="nav-links">
+    <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>home</a></li>
+    <li><a href="{{ '/blog/' | relative_url }}"{% if page.url contains '/blog' or page.layout == 'post' %} class="active"{% endif %}>blog</a></li>
+    <li><a href="https://github.com/gyutaetae" target="_blank" rel="noopener">github</a></li>
+  </ul>
+</nav>
